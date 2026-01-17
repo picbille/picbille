@@ -1,0 +1,12 @@
+# _config.yml
+title: Titre
+description: Etudiant • Test • SAE
+url: "https://picbille.github.io"
+baseurl: ""
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
