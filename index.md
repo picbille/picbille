@@ -19,7 +19,7 @@ title: Accueil
   <h2 style="margin-top: 0;">SAE récentes</h2>
   
   <ul style="text-align: left; display: inline-block; padding-left: 1.5rem;">
-    <li><a href="[/sae-example](https://pc.abdoul.net/)">SAE 1.01 - SAE Réseau - Site Web</a></li>
+    <li><a href="https://pc.abdoul.net/">SAE 1.01 - SAE Réseau - Site Web</a></li>
     <!-- Ajoute ou supprime des lignes ici quand tu crées de nouvelles pages -->
   </ul>
   
