@@ -1,6 +1,6 @@
 ---
 layout: default
-title: abdoul.net
+title: Accueil
 permalink: /
 ---
 
