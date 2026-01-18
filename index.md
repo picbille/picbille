@@ -1,34 +1,40 @@
 ---
 layout: default
-title: Accueil
+title: abdoul.net
+permalink: /
 ---
 
-<div style="text-align: center; max-width: 680px; margin: 0 auto; padding: 2rem 1rem;">
+<div style="text-align: center; max-width: 720px; margin: 4rem auto 2rem; padding: 0 1rem;">
   <h1>Bonjour 👋</h1>
-  
-  <p style="font-size: 1.2rem; color: #555;">
-    Étudiant 
+
+  <p style="font-size: 1.25rem; color: #555; margin-bottom: 2rem;">
+    Étudiant en GEII
   </p>
-  
-  <p>
-    Ce site regroupe mes travaux pratiques, mes SAE et quelques projets personnels réalisés pendant ma formation.
+
+  <p style="max-width: 600px; margin: 0 auto 3rem;">
+    Ce site regroupe mes travaux pratiques, SAE et quelques projets personnels réalisés pendant ma formation.
   </p>
-  
-  <hr style="margin: 3rem 0; border: 0; border-top: 1px solid #eee;">
-  
-  <h2 style="margin-top: 0;">SAE récentes</h2>
-  
-  <ul style="text-align: left; display: inline-block; padding-left: 1.5rem;">
-    <li><a href="https://pc.abdoul.net/">SAE 1.01 - SAE Réseau - Site Web</a></li>
-    <!-- Ajoute ou supprime des lignes ici quand tu crées de nouvelles pages -->
+
+  <hr style="margin: 3rem 0; border: 0; border-top: 1px solid #eee; max-width: 300px;">
+
+  <h2 style="margin: 0 0 1.5rem;">SAE récentes</h2>
+
+  <ul style="list-style: none; padding: 0; max-width: 500px; margin: 0 auto; text-align: left;">
+    <li style="margin: 1rem 0;">
+      <a href="https://pc.abdoul.net/" style="text-decoration: none; color: #0066cc; font-weight: 500;">
+        SAE 1.01 – SAE Réseau & Site Web
+      </a>
+    </li>
+    <!-- Ajoute ici d'autres SAE au fur et à mesure -->
+    <!-- <li><a href="/sae-102">SAE 1.02 – ...</a></li> -->
   </ul>
-  
-  <p style="margin-top: 3rem;">
-    <a href="/about">À propos de moi</a> • 
-    <a href="https://github.com/" target="_blank">GitHub</a>
+
+  <p style="margin: 4rem 0 1rem;">
+    <a href="/about" style="margin: 0 1rem; color: #333; text-decoration: underline;">À propos de moi</a> •
+    <a href="https://www.linkedin.com/" target="_blank" rel="noopener" style="margin: 0 1rem; color: #333; text-decoration: underline;">LinkedIn</a>
   </p>
-  
-  <p style="margin-top: 2rem; font-size: 0.9rem; color: #777;">
+
+  <p style="font-size: 0.9rem; color: #777; margin-top: 3rem;">
     abdoul.net • © 2026
   </p>
 </div>
