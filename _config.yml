@@ -1,6 +1,9 @@
 # _config.yml
+
 title: abdoul.net
-url: "https://picbille.github.io"
+description: Étudiant en GEII • Travaux pratiques, SAE & projets personnels
+
+url: "https://abdoul.net"
 baseurl: ""
 
 theme: minima
@@ -12,3 +15,9 @@ plugins:
 
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+
+minima:
+  skin: auto
