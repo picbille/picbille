@@ -7,10 +7,6 @@ permalink: /
 <div style="text-align: center; max-width: 720px; margin: 4rem auto 2rem; padding: 0 1rem;">
   <h1>Bonjour 👋</h1>
 
-  <p style="font-size: 1.25rem; color: #555; margin-bottom: 2rem;">
-    Étudiant en GEII
-  </p>
-
   <p style="max-width: 600px; margin: 0 auto 3rem;">
     Ce site regroupe mes travaux pratiques, SAE et quelques projets personnels réalisés pendant ma formation.
   </p>
@@ -22,7 +18,7 @@ permalink: /
   <ul style="list-style: none; padding: 0; max-width: 500px; margin: 0 auto; text-align: left;">
     <li style="margin: 1rem 0;">
       <a href="https://pc.abdoul.net/" style="text-decoration: none; color: #0066cc; font-weight: 500;">
-        SAE 1.01 – SAE Réseau & Site Web
+        SAE Réseau & Site Web
       </a>
     </li>
     <!-- Ajoute ici d'autres SAE au fur et à mesure -->
